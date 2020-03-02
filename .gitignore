@@ -5,7 +5,7 @@ lib64/
 pyvenv.cfg
 share/
 db.sqlite3
-mysite/__pycache__/
+mysite/__pycache__
 /static
 *.pyc
 *~
